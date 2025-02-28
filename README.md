@@ -1,4 +1,6 @@
 # PhilipsHueSIMPLSharp
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FPhillipsHueSIMPLSharp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FPhillipsHueSIMPLSharp?ref=badge_shield)
+
 Crestron SIMPLSharp Phillips Hue Implementation
 
 Current features:
@@ -28,3 +30,7 @@ The Hue Init sequence pulls the bulbs, rooms (groups) and scenes from the bridge
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FPhillipsHueSIMPLSharp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FPhillipsHueSIMPLSharp?ref=badge_large)
